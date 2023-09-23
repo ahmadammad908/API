@@ -1,0 +1,46 @@
+[
+    {
+        "name":"Kentuncky Burger",
+        "price":120,
+        "featured": true,
+        "image":"https://images.deliveryhero.io/image/fd-pk/Products/4017903.png?width=%s",
+        "resturant":"KFC"
+    },
+    {
+        "name":"Krunch Burger",
+        "price":150,
+        "featured": true,
+        "image":"https://images.deliveryhero.io/image/fd-pk/Products/1165011.png?width=%s",
+        "resturant":"KFC"
+    },
+    {
+        "name":"Twister",
+        "price":204,
+        "image":"https://giftsandall.com/wp-content/uploads/2021/08/Twister-Combo-From-KFC.jpg",
+        "resturant":"KFC"
+    },
+    {
+        "name":"Zingeratha",
+        "price":204,
+        "image":"https://giftsandall.com/wp-content/uploads/2022/10/Zingeratha-Deal-From-KFC-copy-600x600.jpg",
+        "resturant":"KFC"
+    },
+    {
+        "name":"Big Mack",
+        "price":250,
+        "image":"https://www.thedailymeal.com/img/gallery/heres-who-actually-who-came-up-with-the-big-mac-name/intro-1672784805.jpg",
+        "resturant":"Mcdonalds"
+    },
+    {
+        "name":"SpecialPizza",
+        "price":1250,
+        "image":"https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+        "resturant":"PizzaHut"
+    },
+    {
+        "name":"ChickenKarahi",
+        "price":1950,
+        "image":"https://recipe52.com/wp-content/uploads/2018/04/Chicken-Karahi-Recipe-Pakistani-1-of-1-500x375.jpg",
+        "resturant":"FoodTrack"
+    }
+]
